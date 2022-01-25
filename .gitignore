@@ -125,6 +125,7 @@ gsc/_t-c-1.o
 gsc/_t-c-2.o
 gsc/_t-c-3.o
 gsc/_utils.o
+gsc/_loongarch64.o
 gsc/libgambitgsc.a
 gsc/gsc
 gsc/gsc.exe
