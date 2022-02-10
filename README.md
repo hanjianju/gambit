@@ -83,7 +83,11 @@ Detailed installation instructions are given in the file [INSTALL.txt](https://g
 
 41: [Streams](https://srfi.schemers.org/srfi-41/srfi-41.html)
 
+42: [Eager Comprehensions](https://srfi.schemers.org/srfi-42/srfi-42.html)
+
 45: [Primitives for Expressing Iterative Lazy Algorithms](https://srfi.schemers.org/srfi-45/srfi-45.html)
+
+48: [Intermediate Format Strings](https://srfi.schemers.org/srfi-48/srfi-48.html)
 
 62: [S-expression comments](https://srfi.schemers.org/srfi-62/srfi-62.html) (builtin)
 
@@ -98,6 +102,8 @@ Detailed installation instructions are given in the file [INSTALL.txt](https://g
 124: [Ephemerons](https://srfi.schemers.org/srfi-124/srfi-124.html)
 
 132: [Sort Libraries](https://srfi.schemers.org/srfi-132/srfi-132.html)
+
+151: [Bitwise Operations](https://srfi.schemers.org/srfi-151/srfi-151.html)
 
 158: [Generators and Accumulators](https://srfi.schemers.org/srfi-158/srfi-158.html)
 
